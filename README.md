@@ -19,6 +19,7 @@
   
 ## Результат
 Повний дашборд можна переглянути за посиланням: https://public.tableau.com/app/profile/tymofiy.khorolskyy/viz/OnlineRetailDashboard_17622723359130/Dashboard1?publish=yes
+
 ![Photo 1](Images/plot1.jpg)
 ![Photo 2](Images/plot2.jpg)
 ![Photo 3](Images/plot3.jpg)
