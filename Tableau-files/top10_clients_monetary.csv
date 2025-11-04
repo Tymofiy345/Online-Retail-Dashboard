@@ -1,0 +1,11 @@
+"Customer ID","cohort_month","Country","Number of unique Invoice","recency_days","frequency","monetary","r_score","f_score","m_score"
+18102.0,2009-12-01 00:00:00.000,United Kingdom,153,numeric,1068,598215.22,5,5,5
+14646.0,2009-12-01 00:00:00.000,Netherlands,164,numeric,3890,523342.07,5,5,5
+14156.0,2009-12-01 00:00:00.000,EIRE,202,numeric,4130,296564.69,5,5,5
+14911.0,2009-12-01 00:00:00.000,EIRE,510,numeric,11613,270248.53,5,5,5
+17450.0,2010-09-01 00:00:00.000,United Kingdom,61,numeric,448,233579.39,5,5,5
+13694.0,2009-12-01 00:00:00.000,United Kingdom,164,numeric,1558,190825.52,5,5,5
+17511.0,2009-12-01 00:00:00.000,United Kingdom,85,numeric,2134,171885.98,5,5,5
+12415.0,2010-06-01 00:00:00.000,Australia,33,numeric,990,143269.29,4,5,5
+16684.0,2009-12-01 00:00:00.000,United Kingdom,65,numeric,749,141502.25,5,5,5
+15061.0,2009-12-01 00:00:00.000,United Kingdom,138,numeric,998,136391.48,5,5,5
