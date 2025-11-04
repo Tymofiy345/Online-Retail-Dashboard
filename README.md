@@ -22,4 +22,3 @@
 ![Photo 1](Images/plot1.jpg)
 ![Photo 2](Images/plot2.jpg)
 ![Photo 3](Images/plot3.jpg)
-![Photo 4](Images/plot4.jpg)
